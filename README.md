@@ -1,3 +1,3 @@
 ## First-Repo
 First Repo
-Updating teh readme with new info
+Updating the readme with new info
